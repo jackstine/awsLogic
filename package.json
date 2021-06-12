@@ -1,0 +1,26 @@
+{
+  "name": "awslogic",
+  "version": "0.0.1",
+  "description": "AWS Logic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackstine/awsLogic.git"
+  },
+  "keywords": [
+    "AWS",
+    "Node",
+    "AWS-SDK",
+    "package",
+    "manager"
+  ],
+  "author": "Jake Cukjati <jakecukjati@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackstine/awsLogic/issues"
+  },
+  "homepage": "https://github.com/jackstine/awsLogic#readme"
+}
